@@ -1,5 +1,5 @@
 # satellite-imagery-semantic-segmentation
-a PyTorch Lightning + Segmentation Models Pytorch (SMP) ipynb for semantic segmentation tasks; example dataset uses the satellite images from the DeepGlobe Land Cover Classification Challenge
+a PyTorch Lightning + Segmentation Models Pytorch (SMP) ipynb for semantic segmentation tasks; example dataset uses satellite images from the DeepGlobe Land Cover Classification Challenge (2018)
 
 ## Sample preprocessed images and masks
 - 512x512 patches randomly cropped from 2448x2448 originals
